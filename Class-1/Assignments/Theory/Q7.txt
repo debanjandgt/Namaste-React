@@ -1,0 +1,3 @@
+Q.State Differences b/w react.production.js and react.development.js.
+
+Basically both the things are same however react.production.js is a minimized and optimized one.
