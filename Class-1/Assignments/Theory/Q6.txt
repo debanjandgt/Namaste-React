@@ -1,0 +1,8 @@
+Q.Differences b/w React And ReactDOM /
+
+React and ReactDOM are two separate packages in the React library, with different responsibilities.
+
+React is the core library that provides the foundation for building user interfaces in JavaScript. 
+
+ReactDOM is the package that provides the glue between React and the browser's Document Object Model (DOM). 
+It is responsible for rendering the React components to the DOM, updating them when necessary
