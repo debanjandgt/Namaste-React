@@ -1,0 +1,19 @@
+Q.Differences b/w async and defer.
+
+Async and defer are both boolean attributes which are used along with script tag to fetch external scrpits efficiently in our webpages.
+
+In normal scenarios whenever the browser is parsing HTMl and suddenly encounters with a script tag then the browser pauses the parsing of html at that time and fetches the script from network and executes it then and there.
+And then after the script is done its execution fully then the html again starts parsing... However this is not a good approach as the parsing of html is getting paused...
+
+
+What happens in async attribute????
+
+In async approach, during the parsing of html , the script file gets fetched asynchronously and whenever the async file is done downloading then the parsing of html stops and the script file starts executing .
+And after the script file is done executing ,, the html strts getting parsed by the browser again.
+
+
+
+What happens in defer attribute??
+
+in defer scenario, the html parsing and fetching of script is done is parallel.... Whenever the parsing of html is done then only the script is executed....
+
