@@ -10,10 +10,11 @@ What happens in async attribute????
 
 In async approach, during the parsing of html , the script file gets fetched asynchronously and whenever the async file is done downloading then the parsing of html stops and the script file starts executing .
 And after the script file is done executing ,, the html strts getting parsed by the browser again.
-
+async attribute doesnot guarantee the order of execution of scripts.(not applicable to use when several scripts are dependent on each other)
 
 
 What happens in defer attribute??
 
 in defer scenario, the html parsing and fetching of script is done is parallel.... Whenever the parsing of html is done then only the script is executed....
+defer attribute does guarantee the order of execution of scripts.
 
