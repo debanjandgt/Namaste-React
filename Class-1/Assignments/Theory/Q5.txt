@@ -1,0 +1,4 @@
+Q.Why is React Known as React?
+
+The React Library is called react because it constantly gets updatedm to our changes being made. 
+In other words we can say it is highly reactive to our code.
