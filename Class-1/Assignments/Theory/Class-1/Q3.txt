@@ -1,0 +1,14 @@
+Q.What is CDN and Why do we use it?
+
+A content delivery network (CDN) is a geographically distributed group of servers that caches content close to end users 
+
+Although the benefits of using a CDN vary depending on the size and needs of an Internet property, the primary benefits for most users can be broken down into 4 different components:
+
+Faster website loading times: When files are stored closer to you, they can be downloaded faster. This means that websites load faster, and visitors are more likely to stick around instead of leaving if the website is slow.
+For example, if you are in the United States and a website's server is located in Europe, it may take a long time for the website to load. But if the website is using a CDN, the files you need to download might be stored on a server in the US, so the website will load much faster.
+
+Lower bandwidth costs: Bandwidth is like the internet equivalent of a water bill. Every time someone visits a website, they use up a bit of the website's bandwidth, and the website owner has to pay for it. CDNs help by storing files on servers all around the world, so that when someone visits a website, they are downloading those files from a nearby server instead of from the website's main server. This reduces the amount of bandwidth the website owner has to pay for.
+
+Better content availability and redundancy: If a website's server goes down or gets overwhelmed with traffic, the website can become unavailable. CDNs help by storing files on many different servers, so even if one server goes down, there are still many others that can serve the files. This means that websites using a CDN are more reliable and less likely to go down.
+
+Improved website security: CDNs can help make websites more secure by providing tools to protect against things like DDoS attacks, which are when hackers try to overwhelm a website with traffic to make it crash. CDNs can also provide improved security certificates, which help make sure that the data being sent between your computer and the website is encrypted and secure.
