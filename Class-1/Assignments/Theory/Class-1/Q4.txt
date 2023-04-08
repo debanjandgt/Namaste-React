@@ -1,0 +1,7 @@
+Q.What is cross origin in script tag?
+
+In simpler terms, the script tag in React is used to include external JavaScript files in a web page. However, there is a security feature called the "same-origin policy" that prevents scripts from different domains (websites) from accessing each other's data.
+
+If you need to load a script from a different domain, you can use the crossOrigin attribute in the script tag to specify the rules for accessing the data. This attribute can be set to either "anonymous" or "use-credentials", depending on whether or not you want to send credentials (like cookies) along with the request.
+
+By setting the crossOrigin attribute correctly, you can control how the script is allowed to access data from other domains, and ensure that your web page remains secure.
