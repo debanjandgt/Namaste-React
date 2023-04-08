@@ -1,0 +1,5 @@
+What is Emmet?
+
+Emmet is a built-in feature provided to the developers by VS-Code .
+As soon as we start writing the command , emmet shows suggestions of what we are trying to write in the first place so that we could save our time 
+by using the suggestions from EMMET.
