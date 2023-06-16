@@ -16,5 +16,5 @@ async attribute doesnot guarantee the order of execution of scripts.(not applica
 What happens in defer attribute??
 
 in defer scenario, the html parsing and fetching of script is done is parallel.... Whenever the parsing of html is done then only the script is executed....
-defer attribute does guarantee the order of execution of scripts.
+defer attribute does guarantee the order of execution of scripts.    
 
