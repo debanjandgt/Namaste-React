@@ -1,1 +1,3 @@
+Q. What is NPM?
 
+People refers NPM as Node Package Manager although it manages Node Packages but it does not have a definite name. There are multiple Node packahges which provide multiple functionalities , in order to use them in our project we use a projext manager known as NPM. Alternative to NPM is YARN.
